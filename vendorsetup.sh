@@ -1,0 +1,3 @@
+add_lunch_combo lineage_xiaomi_peridot-user
+add_lunch_combo lineage_xiaomi_peridot-userdebug
+add_lunch_combo lineage_xiaomi_peridot-eng
